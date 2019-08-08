@@ -52,5 +52,6 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project’s leadership.
 
+## Credits
 
 Credits for the sources and inspiration of this code of conduct go to the Fedora Project, as well as the Python Mentorship Project, the Contributor Covenant (version 1.4), and many others.
