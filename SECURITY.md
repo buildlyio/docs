@@ -21,7 +21,7 @@ We ask you to not disclose the vulnerability before it has been fixed and announ
 When the security team receives a security bug report, they will assign it to a primary handler. This person will coordinate the fix and release process.
 
 
-### Security Announcements
+## Security Announcements
 
 We maintain a category on the community repository called [Security Announcements](https://github/buildly/docs/security-announcements),
 where we will post a summary, remediation, and mitigation details for any patch containing security fixes.
