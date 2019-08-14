@@ -5,7 +5,7 @@ This product is built and maintained by [Buildly](https://buildly.io) and it's c
 The Road map is priortized Monthly and managed for each release by the board based on feedback from users and the community.
 [ROAD MAP](https://buildly.io/product/roadmap)
 
-# Board Pirorization Process
+# Board Priorization Process
 The board for this project is comprised of key commiters, founding members and organizations and community advisors.
 
 # Board Members
