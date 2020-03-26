@@ -54,7 +54,7 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system and preference for [Humanitec](https://humanitec.com) and Walhall
+Add additional notes about how to deploy this on a live system. 
 
 ## Built With
 
