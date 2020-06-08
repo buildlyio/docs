@@ -1,4 +1,4 @@
-# Buildy Community Code of Conduct
+# Buildly Community Code of Conduct
 
 Like the technical community as a whole, the Buildly team and community is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the software and product components.  We are lead by the organization Buildy Inc. but the community and people that contribute are what matters most and reflected in our guidelines for contributing to the open source projects as well as the bylaws of the organization.
 
