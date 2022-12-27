@@ -4,7 +4,7 @@ Like the technical community as a whole, the Buildly team and community is made 
 
 Diversity is one of our huge strengths, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to when they're participating within this community and project. These rules apply equally to founders, mentors and those seeking help and guidance.
 
-This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us, the technical community and the conferences and usergroups we hope to guide new speakers to.
+This isn't an exhaustive list of things that you should do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us, the technical community and the conferences and usergroups we hope to guide new speakers to.
 
 This Code of Conduct applies within all project spaces, and it also applies when an individual is representing the project or its community in public spaces. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
 
